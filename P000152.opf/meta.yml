@@ -1,0 +1,39 @@
+ebook_metadata:
+  title: ༄༅༅། །དཀོན་མཆོག་དང་ལས་འབྲས་ལ་ཡིད་ཆེས་བསྐྱེད་པའི་གཏམ་རྒྱུད་སྣ་ཚོགས་མདོ་ལས་གསུངས་པའི་དོན་སྙིང་པོ་བསྡུས་པ་ཡང་དག་ཐར་ལམ་བགྲོད་པའི་ཐེམ་སྐས་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།
+  sku: SHE-SG-08
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - sabche
+  - yigchung
+web_metadata:
+  title:
+    en: Advice Taken from the Sutras, etc.
+    bo: མདོ་ལས་བྱུང་བའི་གཏམ་རྒྱུད་སྣ་ཚོགས།༼ཉ༽
+  collection:
+    en: Shechen Gyaltsab Series–  Book 8
+    bo: ཞེ་ཆེན་རྒྱལ་ཚབ་གསུང་འབུམ།–  དེབ། ༨
+  author:
+    en: Shechen Gyaltsap Gyurme Pema Namgyal
+    bo: ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-SG-08
+  category:
+    en: Uncategorized
+    bo: སྡེ་ཚན་མེད་པ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-SG-08.epub
+  description:
+    en: ''
+    bo: ''
